@@ -6,6 +6,16 @@ security:
     # https://symfony.com/doc/current/security.html#loading-the-user-the-user-provider
     providers:
         users_in_memory: { memory: null }
+#        in_memory:
+#            memory:
+#                users:
+#                   admin:
+#                      password: $2y$13$cqY9DI14u4I5h3/0Q6Fqr.m5./WRKAS6uXtcAVvZoitubf1ksNtzW
+#                      roles: 'ROLE_SUPER_ADMIN'
+#                   administration@begc.fr:
+#                     ku20WXwVY0
+#                      password: $2y$13$8TAB3WoqhykggQadfLqaaOkFibxU04cYjvAD3xscL5axm54KsU.xe
+#                      roles: 'ROLE_ADMIN'
     firewalls:
         dev:
             pattern: ^/(_(profiler|wdt)|css|images|js)/
