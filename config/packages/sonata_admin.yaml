@@ -2,3 +2,16 @@ sonata_block:
     blocks:
         sonata.admin.block.admin_list:
             contexts: [admin]
+
+sonata_admin:
+    title: 'BEGC'
+    title_logo: images/logo.jpg
+    persist_filters: false
+    dashboard:
+        groups:
+            Projets:
+                label: 'Projets'
+                icon: '<i class="glyphicon glyphicon-wrench"></i>'
+                on_top: true
+                items:
+                    - 'admin.operation'

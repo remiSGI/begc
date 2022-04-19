@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="messages.en">
+    <unit id="DwRP62y" name="Operation">
+      <segment>
+        <source>Operation</source>
+        <target>Projet</target>
+      </segment>
+    </unit>
+    <unit id="3NHVIj9" name="Name">
+      <segment>
+        <source>Name</source>
+        <target>Nom</target>
+      </segment>
+    </unit>
+    <unit id="cb_Qk1." name="Reference">
+      <segment>
+        <source>Reference</source>
+        <target>Numéro de dossier</target>
+      </segment>
+    </unit>
+    <unit id="MaIxwG5" name="Sector">
+      <segment>
+        <source>Sector</source>
+        <target>Secteur</target>
+      </segment>
+    </unit>
+    <unit id=".DP3Mkb" name="City">
+      <segment>
+        <source>City</source>
+        <target>Ville</target>
+      </segment>
+    </unit>
+    <unit id="c5VgHdg" name="Zipcode">
+      <segment>
+        <source>Zipcode</source>
+        <target>Code postal</target>
+      </segment>
+    </unit>
+    <unit id="odWMLnK" name="Shon">
+      <segment>
+        <source>Shon</source>
+        <target>SHON</target>
+      </segment>
+    </unit>
+    <unit id="vJv9LtV" name="Consultation Type">
+      <segment>
+        <source>Consultation Type</source>
+        <target>Type de consultation</target>
+      </segment>
+    </unit>
+    <unit id="vOj0jdB" name="Bim">
+      <segment>
+        <source>Bim</source>
+        <target>BIM</target>
+      </segment>
+    </unit>
+    <unit id="5rhb_.V" name="Mission">
+      <segment>
+        <source>Mission</source>
+        <target>Mission</target>
+      </segment>
+    </unit>
+    <unit id="_T7HBaA" name="Contracting Authority">
+      <segment>
+        <source>Contracting Authority</source>
+        <target>Maître d'ouvrage</target>
+      </segment>
+    </unit>
+    <unit id="hh7qMq6" name="Architect">
+      <segment>
+        <source>Architect</source>
+        <target>Architecte</target>
+      </segment>
+    </unit>
+    <unit id="P42I21h" name="Covers">
+      <segment>
+        <source>Covers</source>
+        <target>Couverts/Production</target>
+      </segment>
+    </unit>
+    <unit id="dagh3qL" name="Operation Amount">
+      <segment>
+        <source>Operation Amount</source>
+        <target>Montant de l'opération</target>
+      </segment>
+    </unit>
+    <unit id="wSS1G8I" name="Equipment Amount">
+      <segment>
+        <source>Equipment Amount</source>
+        <target>Montant des équipements</target>
+      </segment>
+    </unit>
+    <unit id="kg5BPH1" name="Status">
+      <segment>
+        <source>Status</source>
+        <target>Etat</target>
+      </segment>
+    </unit>
+    <unit id="6XCVHPt" name="End Date">
+      <segment>
+        <source>End Date</source>
+        <target>Date d'achèvement</target>
+      </segment>
+    </unit>
+    <unit id="Um4Ah8w" name="Description">
+      <segment>
+        <source>Description</source>
+        <target>Descriptif</target>
+      </segment>
+    </unit>
+    <unit id="mcHAnfE" name="Bim Level">
+      <segment>
+        <source>Bim Level</source>
+        <target>Niveau de BIM</target>
+      </segment>
+    </unit>
+    <unit id="k9QavDW" name="Image File">
+      <segment>
+        <source>Image File</source>
+        <target>Photos</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
